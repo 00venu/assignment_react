@@ -1,0 +1,36 @@
+.model-parent{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin:auto;
+
+}
+.model{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.model span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #fff;
+    top: 30px;
+}
+.model-overlay{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.4;
+    background-color: #000;
+}

@@ -1,0 +1,11 @@
+.thumbnail-parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.thumbnail{
+    width:150px;
+     height:150px;
+     margin: 5px;
+     cursor: pointer;
+}
